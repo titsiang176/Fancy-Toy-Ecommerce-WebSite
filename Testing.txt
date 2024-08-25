@@ -1,0 +1,40 @@
+cd Users/user/Documents/Degree Year 2 Sem1/UCCD2223 WEB SITE DESIGN AND DEVELOPMENT/Practical 10/offline-quickstart-lab/offline-quickstart-lab/app
+npm install
+node server.js
+
+Downloads\Children Toys
+
+C:\Users\user\Downloads\Children Toys
+
+ 'images/logo.png',
+  'images/logo-footer.png',
+  'images/nav-toggle-icon.png',
+  'images/WhatsApp.png',
+  'images/favicon.png'
+  'styles/main.css',
+  'plugins/jQuery/jquery-3.5.1.min.js',
+  'plugins/jQuery/jquery.min.js',
+  'css/main.css',
+  'css/style.css',
+  'css/maps/style.css.map',
+  'plugins/bootstrap/css/bootstrap.min.css',
+  'plugins/bootstrap/css/bootstrap-slider.css',
+  'plugins/bootstrap/css/bootstrap-slider.js',
+  'plugins/bootstrap/css/bootstrap.min.js',
+  'plugins/bootstrap/js/popper.min.js',
+  'plugins/google-map/gmap.js',
+  'plugins/smoothscroll/SmoothScroll.js',
+  'plugins/smoothscroll/SmoothScroll.min.js',
+  'js/script.js',
+  'images/products-1.jpg',
+  'images/products-2.jpg',
+  'images/products-3.jpg',
+  'images/products-4.jpg',
+  'images/product2-1.jpg',
+  'images/product2-2.jpg',
+  'images/product2-3.jpg',
+  'images/product2-4.jpg',
+  'images/product3-1.jpg',
+  'images/product3-2.jpg',
+  'images/product3-3.jpg',
+  'images/product3-4.jpg',
